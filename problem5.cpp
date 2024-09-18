@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
     
-    int a,b;
+    double a,b;
     char c;
     cin >> a >> c >> b;
    if (c=='+') cout << a+b;
